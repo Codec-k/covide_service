@@ -2,10 +2,10 @@
 
 # 先启动service中间层获取接口数据和代理
 
-``` sh
+```sh
  npm install
 ``
 
-``` sh
+```sh
  npm run dev
 ```
